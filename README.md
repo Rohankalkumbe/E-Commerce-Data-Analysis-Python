@@ -70,5 +70,4 @@ This project is licensed under the **MIT License**.
 For any queries, feel free to reach out:  
 📧 Email: **rohankalkumbe31@gmail.com**  
 🔗 GitHub:  (https://github.com/Rohankalkumbe?tab=packages)
-🌐 Linked In: (https://www.linkedin.com/in/rohan-kalkumbe-460bb0271/) 
-```
+🌐 Linked In: (https://www.linkedin.com/in/rohan-kalkumbe-460bb0271/)
